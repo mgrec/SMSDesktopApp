@@ -1,3 +1,3 @@
-# SMSDesktop
-Website to read sms from an android device (PHP/Laravel)
+# SMSDesktopApp
+Android app for website SMSDesktop => https://github.com/mgrec/SMSDesktop. (IONIC)
 
